@@ -8,7 +8,7 @@ Input chord name, and the fretboard positions will be generated on console.
 
 Example for B7:
 
-```bash
+```python
 Enter 'exit' to exit.
 Enter Chord:B7
 Chord:  B7
